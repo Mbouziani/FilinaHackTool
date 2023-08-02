@@ -1,4 +1,16 @@
 {
   "Sarout": "253f5e5b2868390fb5183f85a664933f284d375e7e36d0ab31aed0a4aa486d24",
-  "data":235
+   "release_Infos":{
+      "release_new_version ":{
+        "label":"1.0.0",
+        "number":100
+      },  
+      "release_Date":"20-October 2021 ",
+      "release_periority":"medium" , 
+      "release_title":"UI" , 
+      "release_descriptions":["eeee","ddddd"]  ,
+      "release_Seened":true,
+      "release_check_link":"eeee",
+      "release_download_link":"eee"
+    }  
 }
