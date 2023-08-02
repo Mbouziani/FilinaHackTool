@@ -14,9 +14,6 @@
             "Fixe bugs : 15",
             "Add More Featurs : 10",
             "Improve Ui : Heigh"
-        ],
-        "release_Seened": true,
-        "release_check_link": "https://raw.githubusercontent.com/Mbouziani/FilinaHackTool/main/fillinaJsonFile.json",
-        "release_download_link": "https://shorturl.at/puALN"
+        ]
     }
 }
