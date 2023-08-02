@@ -1,16 +1,22 @@
 {
   "Sarout": "253f5e5b2868390fb5183f85a664933f284d375e7e36d0ab31aed0a4aa486d24",
    "release_Infos":{
+      "release_app_uid":"253f5e5b2868390fb5183f85a664933f284d375e7e36d0ab31aed0a4aa486d24",
       "release_new_version ":{
-        "label":"1.0.0",
-        "number":100
+        "label":"1.0.1",
+        "number":100010,
+        "number_to_label":"10.00.10"
       },  
-      "release_Date":"20-October 2021 ",
-      "release_periority":"medium" , 
-      "release_title":"UI" , 
-      "release_descriptions":["eeee","ddddd"]  ,
+      "release_Date":"02-08-2023 ",
+      "release_periority":"Heigh", 
+      "release_title":"LOLIPOP Update" , 
+      "release_descriptions":[
+        "Fixe bugs : 15",
+        "Add More Featurs : 10",
+        "Improve Ui : Heigh",
+      ]  ,
       "release_Seened":true,
-      "release_check_link":"eeee",
-      "release_download_link":"eee"
+      "release_check_link":"https://raw.githubusercontent.com/Mbouziani/FilinaHackTool/main/fillinaJsonFile.json",
+      "release_download_link":"https://shorturl.at/puALN"
     }  
 }
